@@ -135,3 +135,78 @@ Motto:
 > **"Build things that people remember, not things they simply use."**
 
 ---
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rickbarat047&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickbarat047&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Status |
+|:--------:|-------------|:------:|
+| 🌐 Portfolio | Modern personal portfolio website | 🚧 |
+| 🤖 AI Projects | AI experiments & automation | 🚀 |
+| ⚙️ Utilities | Useful tools & scripts | ⭐ |
+| 💻 Hardware | PC builds & hardware resources | 🔥 |
+
+</div>
+
+---
+
+# 💡 Currently Working On
+
+```text
+🚀 Building beautiful web experiences
+
+⚡ Learning advanced React & Next.js
+
+🤖 Exploring AI & Automation
+
+🎨 Improving UI/UX Design
+
+🌍 Contributing to Open Source
+```
+
+---
+
+# 🌌 Developer Philosophy
+
+> **"Build things people remember—not things they simply use."**
+
+---
+
+# 📚 Current Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,docker,typescript,aws"/>
+
+</div>
+
+---
+
+# ☕ Fun Facts
+
+- 💻 I love building things from scratch.
+- 🖥️ Computer hardware is my second passion.
+- 🌙 I enjoy late-night coding sessions.
+- 🚀 I believe consistency beats motivation.
+
+---
