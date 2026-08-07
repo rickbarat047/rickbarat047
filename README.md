@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Rick Barat Banner" width="100%" />
+<img src="./banner.png" alt="Rick Barat Banner" width="100%" />
 
 <br><br>
 
