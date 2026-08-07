@@ -210,3 +210,40 @@ Motto:
 - 🚀 I believe consistency beats motivation.
 
 ---
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rickbarat21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rickbarat047">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Quote
+
+<div align="center">
+
+> **"Code is where imagination becomes reality."**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following my journey.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,100:06B6D4"/>
+
+</div>
